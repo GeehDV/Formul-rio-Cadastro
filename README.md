@@ -14,6 +14,7 @@ A página é composta por um formulário de cadastro com campos de preenchimento
 - E-mail
 - Senha (com confirmação de senha)
 - Telefone de contato
+- Opções de Gêneros (Feminino, Masculino, Outros, Prefiro não dizer)
 
 Design e Layout (CSS):
 
